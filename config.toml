@@ -1,0 +1,8 @@
+baseURL = 'https://turiyacs.github.com/TechNotes'
+languageCode = 'en-us'
+title = 'Tech Notes'
+theme = 'hugo-book'
+
+[params]
+BookTheme = 'auto'
+BookLogo = 'logo.png'
